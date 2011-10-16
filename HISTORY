@@ -17,3 +17,6 @@ VDR Plugin 'dummydevice' Revision History
 
 - Homepage changed
 
+2011-10-16: Version 1.0.2-osd0
+
+- added dummy osd so the vdr doesn't claim a missing osd provider

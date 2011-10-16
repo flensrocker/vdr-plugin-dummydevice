@@ -34,7 +34,7 @@ public:
 
 #include <vdr/plugin.h>
 
-static const char *VERSION        = "1.0.2";
+static const char *VERSION        = "1.0.2-osd0";
 static const char *DESCRIPTION    = "Output device that does nothing";
 
 class cPluginDummydevice : public cPlugin {
